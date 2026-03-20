@@ -1,7 +1,7 @@
 # Nivok
 A Robotic Arm controlled with hand gestured glove.
 
-This project is onw of my best till now. To sum up everything it is a hand gestured robotic arm which you can use in various process. I have not added feature for self training but we can do that too in near future.
+This project is one of my best till now. To sum up everything it is a hand gestured robotic arm which you can use in various process. I have not added feature for self training but we can do that too in near future.
 
 Added BOM is for 2 ARMS.
 
