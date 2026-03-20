@@ -20,6 +20,10 @@ Base
 <img width="688" height="397" alt="Screenshot 2026-03-19 005402" src="https://github.com/user-attachments/assets/98bb5c82-a536-4e97-8260-db02fd571767" />
 
 
+<img width="1146" height="2814" alt="flex-sensor-glove_bb" src="https://github.com/user-attachments/assets/9e679a49-d6c1-430f-bbeb-982ffbe166f7" />
+
+
+
 This is how whole robot works with hand gesture.
 <img width="997" height="695" alt="Screenshot 2026-03-19 022602" src="https://github.com/user-attachments/assets/b740fd79-043c-43a7-88b3-75540b645e33" />
 
